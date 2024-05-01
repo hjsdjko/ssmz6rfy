@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="ssmz6rfy">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>ssmz6rfy</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="ssmz6rfy.war">
+      <element id="artifact" artifact-name="ssmz6rfy:war exploded" />
+    </root>
+  </artifact>
+</component>
